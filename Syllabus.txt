@@ -1,0 +1,10 @@
+--> Use of Js
+--> Js in frontend examples
+--> Installation of Vs Code, Node js & Coderunner
+--> output, Diifference b/w text and number, comments
+--> Variables & Naming, updation of variables, increment, var let const, redefination 
+--> Operator -, +, %, /, *, **, ++, --
+--> Datatype, typeof
+--> Conditionals
+--> Loops
+--> Array
